@@ -1,0 +1,32 @@
+div{
+  background-color: #F08080;
+  border: 5px solid #CD5C5C;
+  padding-left: 220px;
+  color: white;
+  font-size: 50px;
+  cursor: default;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  padding-right: 600px;
+  margin-top: 400px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border-radius: 500px;
+  font: 50pt/50pt impact;
+}
+.warn:hover{
+  transform: scale(1.01);
+  transform: rotate(360deg);
+  transition: 1s transform;
+}
+body{
+  background-image: url(https://wallpapersprinted.com/download/1/genshin_impact_keqing_hd_genshin_impact_2-2560x1440.jpg);
+  transform: scale(0.5);
+  background-position: center;
+}
+p {
+  font-size: 100px;
+  margin-left: 350px;
+  font: 100pt/100pt impact;
+
+}
