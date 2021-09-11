@@ -24,7 +24,7 @@ body{
   transform: scale(0.5);
   background-position: center;
 }
-p {
+p{
   font-size: 100px;
   margin-left: 350px;
   font: 100pt/100pt impact;
